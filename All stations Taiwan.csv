@@ -1,0 +1,520 @@
+ID,StationID,Station Name,County,Network,longitude,latitude
+1,A1,Taipei Main,Taipei,Taoyuan Metro,121.5142195,25.04859855
+2,A2,Sanchong,New Taipei City,Taoyuan Metro,121.4828957,25.05460219
+3,A3,New Taipei Industrial Park,New Taipei City,Taoyuan Metro,121.4588021,25.06177938
+4,A4,Xinzhuang Fuduxin,New Taipei City,Taoyuan Metro,121.4461125,25.05957321
+5,A5,Taishan,New Taipei City,Taoyuan Metro,121.4393996,25.0533566
+6,A6,Taishan Guihe,New Taipei City,Taoyuan Metro,121.422493,25.03326252
+7,A7,National Taiwan Sports University,Taoyuan,Taoyuan Metro,121.3854963,25.04124806
+8,A8,Chang Gung Memorial Hospital,Taoyuan,Taoyuan Metro,121.370827,25.06058853
+9,A9,Linkou,New Taipei City,Taoyuan Metro,121.3614057,25.065887
+10,A10,Shanbi,Taoyuan,Taoyuan Metro,121.284831,25.0808828
+11,A11,Kengkou,Taoyuan,Taoyuan Metro,121.2664166,25.08645337
+12,A12,Airport Terminal 1,Taoyuan,Taoyuan Metro,121.2385273,25.08232154
+13,A13,Airport Terminal 2,Taoyuan,Taoyuan Metro,121.2319653,25.07745622
+14,A14,Airport Hotel,Taoyuan,Taoyuan Metro,121.2208908,25.06929902
+15,A15,Dayuan,Taoyuan,Taoyuan Metro,121.2104879,25.05596653
+16,A16,Hengshan,Taoyuan,Taoyuan Metro,121.2156551,25.03657612
+17,A17,Linghang,Taoyuan,Taoyuan Metro,121.2210115,25.02407736
+18,A18,Taoyuan HSR,Taoyuan,Taoyuan Metro,121.214131,25.01378284
+19,A19,Taoyuan Sports Park,Taoyuan,Taoyuan Metro,121.2034256,25.00205052
+20,A20,Xingnan,Taoyuan,Taoyuan Metro,121.216207,24.98015801
+21,A21,Huanbei,Taoyuan,Taoyuan Metro,121.221046,24.96715655
+22,V01,Ganzhenlin,New Taipei City,Tamsui Light Rail,121.4562677,25.16243133
+23,V02,Danjin Denggong,New Taipei City,Tamsui Light Rail,121.4608238,25.16926294
+24,V03,Tamkeng University,New Taipei City,Tamsui Light Rail,121.4561396,25.17688339
+25,V04,Danjin Beixin,New Taipei City,Tamsui Light Rail,121.4522514,25.18113702
+26,V05,Xinshi First Road,New Taipei City,Tamsui Light Rail,121.4482395,25.18377487
+27,V06,Tamsui District Office,New Taipei City,Tamsui Light Rail,121.4445367,25.1889609
+28,V07,Binhai Yinshan,New Taipei City,Tamsui Light Rail,121.4374151,25.18970422
+29,V08,Binhai Shalun,New Taipei City,Tamsui Light Rail,121.4315475,25.19046118
+30,V09,Danhai New Town,New Taipei City,Tamsui Light Rail,121.4324836,25.19569425
+31,V10,Kanding,New Taipei City,Tamsui Light Rail,121.4346132,25.20090829
+32,1,Taipei,Taipei,Taiwan Railway (TRA),121.5170952,25.04782735
+33,2,Wanhua,Taipei,Taiwan Railway (TRA),121.4999234,25.03327862
+34,3,Banqiao,New Taipei City,Taiwan Railway (TRA),121.4642721,25.0137561
+35,4,Fuzhou,New Taipei City,Taiwan Railway (TRA),121.4447027,25.00407025
+36,5,Shulin,New Taipei City,Taiwan Railway (TRA),121.4243367,24.99127432
+37,6,Shanjia,New Taipei City,Taiwan Railway (TRA),121.3924083,24.97265965
+38,7,South Shulin,New Taipei City,Taiwan Railway (TRA),121.4088211,24.98040114
+39,8,Yingge,New Taipei City,Taiwan Railway (TRA),121.3551562,24.95447898
+40,9,Taoyuan,Taoyuan,Taiwan Railway (TRA),121.3135142,24.98906809
+41,10,Neili,Taoyuan,Taiwan Railway (TRA),121.2583254,24.97264537
+42,11,Zhongli,Taoyuan,Taiwan Railway (TRA),121.22575,24.95328374
+43,12,Puxin,Taoyuan,Taiwan Railway (TRA),121.1835239,24.91959099
+44,13,Yangmei,Taoyuan,Taiwan Railway (TRA),121.1464803,24.91424425
+45,14,Fugang,Taoyuan,Taiwan Railway (TRA),121.0831114,24.93407443
+46,15,Beihu,Hsinchu County,Taiwan Railway (TRA),121.0557516,24.92223083
+47,16,Hukou,Hsinchu County,Taiwan Railway (TRA),121.0437725,24.90287679
+48,17,Xinfeng,Hsinchu County,Taiwan Railway (TRA),120.9964449,24.86924692
+49,18,Zhubei,Hsinchu County,Taiwan Railway (TRA),121.0091623,24.83906982
+50,19,North Hsinchu,Hsinchu City,Taiwan Railway (TRA),120.9839797,24.80828247
+51,20,Hsinchu,Hsinchu City,Taiwan Railway (TRA),120.9717944,24.80123325
+52,21,Sanxingqiao,Hsinchu City,Taiwan Railway (TRA),120.9284063,24.78733449
+53,22,Xiangshan,Hsinchu City,Taiwan Railway (TRA),120.9140873,24.76301005
+54,23,Qiding,Miaoli,Taiwan Railway (TRA),120.8717135,24.72304924
+55,24,Zhunan,Miaoli,Taiwan Railway (TRA),120.8806348,24.68644855
+56,25,Zaoqiao,Miaoli,Taiwan Railway (TRA),120.8673381,24.64164069
+57,26,Fengfu,Miaoli,Taiwan Railway (TRA),120.8262879,24.60434943
+58,27,Miaoli,Miaoli,Taiwan Railway (TRA),120.8220235,24.56991058
+59,28,Nanshi,Miaoli,Taiwan Railway (TRA),120.7913354,24.52256672
+60,29,Tongluo,Miaoli,Taiwan Railway (TRA),120.7860001,24.48634732
+61,30,Sanyi,Miaoli,Taiwan Railway (TRA),120.774186,24.42064089
+62,31,Houli,Taichung,Taiwan Railway (TRA),120.7330976,24.30926762
+63,32,Fengyuan,Taichung,Taiwan Railway (TRA),120.7232746,24.25427453
+64,33,Lilin,Taichung,Taiwan Railway (TRA),120.7105104,24.23461187
+65,34,Tanzi,Taichung,Taiwan Railway (TRA),120.7056743,24.21276168
+66,35,Toujiacuo,Taichung,Taiwan Railway (TRA),120.7039591,24.19528966
+67,36,Songzhu,Taichung,Taiwan Railway (TRA),120.7018897,24.18022085
+68,37,Taiyuan,Taichung,Taiwan Railway (TRA),120.6997061,24.16424572
+69,38,Jingwu,Taichung,Taiwan Railway (TRA),120.6976475,24.14906831
+70,39,Taichung,Taichung,Taiwan Railway (TRA),120.6866186,24.13728196
+71,40,Daqing,Taichung,Taiwan Railway (TRA),120.6486801,24.11949146
+72,41,Wuri,Taichung,Taiwan Railway (TRA),120.6225084,24.10898955
+73,42,Xinwuri,Taichung,Taiwan Railway (TRA),120.6143186,24.10983389
+74,43,Chenggong,Taichung,Taiwan Railway (TRA),120.5902666,24.11448757
+75,44,Changhua,Changhua,Taiwan Railway (TRA),120.5383162,24.08198231
+76,45,Huatan,Changhua,Taiwan Railway (TRA),120.5371924,24.02494667
+77,46,Dacun,Changhua,Taiwan Railway (TRA),120.5606205,23.99002644
+78,47,Yuanlin,Changhua,Taiwan Railway (TRA),120.5696055,23.95920024
+79,48,Yongjing,Changhua,Taiwan Railway (TRA),120.5717677,23.92803447
+80,49,Shetou,Changhua,Taiwan Railway (TRA),120.5806334,23.8957466
+81,50,Tianzhong,Changhua,Taiwan Railway (TRA),120.5915152,23.85837918
+82,51,Ershui,Changhua,Taiwan Railway (TRA),120.6182192,23.81337245
+83,52,Linnei,Yunlin,Taiwan Railway (TRA),120.6148859,23.75980775
+84,53,Shiliu,Yunlin,Taiwan Railway (TRA),120.5798033,23.73176365
+85,54,Douliu,Yunlin,Taiwan Railway (TRA),120.5410806,23.71184392
+86,55,Dounan,Yunlin,Taiwan Railway (TRA),120.4809713,23.67284345
+87,56,Shigui,Yunlin,Taiwan Railway (TRA),120.4709428,23.63955597
+88,57,Dalin,Chiayi County,Taiwan Railway (TRA),120.4559456,23.60093702
+89,58,Minxiong,Chiayi County,Taiwan Railway (TRA),120.4316652,23.55521319
+90,59,Chiapei,Chiayi City,Taiwan Railway (TRA),120.4484196,23.49977654
+91,60,Chiayi,Chiayi City,Taiwan Railway (TRA),120.4408823,23.47920588
+92,61,Shuishang,Chiayi County,Taiwan Railway (TRA),120.3997543,23.43389196
+93,62,Nanjing,Chiayi County,Taiwan Railway (TRA),120.3867553,23.41340949
+94,63,Houbi,Tainan,Taiwan Railway (TRA),120.3604616,23.36624819
+95,64,Xinying,Tainan,Taiwan Railway (TRA),120.3233432,23.30661235
+96,65,Liuying,Tainan,Taiwan Railway (TRA),120.3226207,23.27754173
+97,66,Linfongying,Tainan,Taiwan Railway (TRA),120.3211696,23.24255434
+98,67,Longtian,Tainan,Taiwan Railway (TRA),120.3194456,23.19266606
+99,68,Balin,Tainan,Taiwan Railway (TRA),120.3212417,23.17259766
+100,69,Shanhua,Tainan,Taiwan Railway (TRA),120.3067195,23.13334995
+101,70,Nanke,Tainan,Taiwan Railway (TRA),120.3020015,23.1073282
+102,71,Xinshi,Tainan,Taiwan Railway (TRA),120.2899279,23.06838745
+103,72,Yongkang,Tainan,Taiwan Railway (TRA),120.2532976,23.03851901
+104,73,Daqiao,Tainan,Taiwan Railway (TRA),120.2242362,23.01936008
+105,74,Tainan,Tainan,Taiwan Railway (TRA),120.2130186,22.99702699
+106,75,Baoan,Tainan,Taiwan Railway (TRA),120.2317655,22.93296952
+107,76,Rende,Tainan,Taiwan Railway (TRA),120.2404613,22.92339464
+108,77,Zhongzhou,Tainan,Taiwan Railway (TRA),120.2524611,22.9045761
+109,78,Dahu,Kaohsuing,Taiwan Railway (TRA),120.2542502,22.87820129
+110,79,Luzhu,Kaohsuing,Taiwan Railway (TRA),120.2664965,22.854061
+111,80,Gangshan,Kaohsuing,Taiwan Railway (TRA),120.3005498,22.79239486
+112,81,Qiaotou,Kaohsuing,Taiwan Railway (TRA),120.3103311,22.76116023
+113,82,Nanzi,Kaohsuing,Taiwan Railway (TRA),120.3240252,22.72711055
+114,83,Xinzuoying,Kaohsuing,Taiwan Railway (TRA),120.3074457,22.6874412
+115,84,Zuoying,Kaohsuing,Taiwan Railway (TRA),120.2941514,22.674284
+116,85,Neiwei,Kaohsuing,Taiwan Railway (TRA),120.2870771,22.66585143
+117,86,Museum of Fine Arts,Kaohsuing,Taiwan Railway (TRA),120.2815765,22.65209902
+118,87,Gushan,Kaohsuing,Taiwan Railway (TRA),120.2809787,22.64186295
+119,88,Sankuaicuo,Kaohsuing,Taiwan Railway (TRA),120.2940951,22.63928068
+120,89,Kaohsuing,Kaohsuing,Taiwan Railway (TRA),120.3023653,22.63962973
+121,90,Minzu,Kaohsuing,Taiwan Railway (TRA),120.3148258,22.63878093
+122,91,Science and Technology Museum,Kaohsuing,Taiwan Railway (TRA),120.3259755,22.63715356
+123,92,Zhengyi,Kaohsuing,Taiwan Railway (TRA),120.342754,22.63419955
+124,93,Fengshan,Kaohsuing,Taiwan Railway (TRA),120.3582401,22.63150913
+125,94,Houzhang,Kaohsuing,Taiwan Railway (TRA),120.391138,22.64048843
+126,95,Jiuqutang,Kaohsuing,Taiwan Railway (TRA),120.4212928,22.656367
+127,96,Liukuaicuo,Pingtung,Taiwan Railway (TRA),120.4650446,22.6657283
+128,97,Pingtung,Pingtung,Taiwan Railway (TRA),120.4860182,22.66899225
+129,98,Guilai,Pingtung,Taiwan Railway (TRA),120.5026495,22.65246815
+130,99,Linluo,Pingtung,Taiwan Railway (TRA),120.5141737,22.63501217
+131,100,Xishi,Pingtung,Taiwan Railway (TRA),120.5264642,22.61626989
+132,101,Zhutian,Pingtung,Taiwan Railway (TRA),120.5397931,22.58649553
+133,102,Chaozhou,Pingtung,Taiwan Railway (TRA),120.5360762,22.55016596
+134,103,Kanding,Pingtung,Taiwan Railway (TRA),120.5148801,22.51304508
+135,104,Nanzhou,Pingtung,Taiwan Railway (TRA),120.5120447,22.49206764
+136,105,Zhenan,Pingtung,Taiwan Railway (TRA),120.5112048,22.45791504
+137,106,Linbian,Pingtung,Taiwan Railway (TRA),120.5152828,22.43134852
+138,107,Jiadong,Pingtung,Taiwan Railway (TRA),120.5476325,22.41391323
+139,108,Donghai,Pingtung,Taiwan Railway (TRA),120.5723273,22.39895685
+140,109,Fangliao,Pingtung,Taiwan Railway (TRA),120.5952894,22.36808681
+141,110,Jialu,Pingtung,Taiwan Railway (TRA),120.6250267,22.33124125
+142,111,Neishi,Pingtung,Taiwan Railway (TRA),120.6435866,22.3062598
+143,112,Fangshan,Pingtung,Taiwan Railway (TRA),120.6595242,22.26725084
+144,113,Dawu,Taitung,Taiwan Railway (TRA),120.9006055,22.36539896
+145,114,Longxi,Taitung,Taiwan Railway (TRA),120.9419743,22.46089699
+146,115,Jinlun,Taitung,Taiwan Railway (TRA),120.9674053,22.53151123
+147,116,Taimali,Taitung,Taiwan Railway (TRA),121.0047235,22.61905376
+148,117,Zhiben,Taitung,Taiwan Railway (TRA),121.0609621,22.71014655
+149,118,Kangle,Taitung,Taiwan Railway (TRA),121.0934078,22.76457215
+150,119,Taitung,Taitung,Taiwan Railway (TRA),121.1224269,22.79391715
+151,120,Shanli,Taitung,Taiwan Railway (TRA),121.1379086,22.86176923
+152,121,Luye,Taitung,Taiwan Railway (TRA),121.1370325,22.9124822
+153,122,Ruiyuan,Taitung,Taiwan Railway (TRA),121.1591571,22.95597511
+154,123,Rueihe,Taitung,Taiwan Railway (TRA),121.1560541,22.98008151
+155,124,Guanshan,Taitung,Taiwan Railway (TRA),121.1645788,23.04558983
+156,125,Haiduan,Taitung,Taiwan Railway (TRA),121.1772684,23.10295257
+157,126,Chishang,Taitung,Taiwan Railway (TRA),121.2194032,23.12618169
+158,127,Fuli,Hualien,Taiwan Railway (TRA),121.2485035,23.17931161
+159,128,Dongzhu,Hualien,Taiwan Railway (TRA),121.2782874,23.22609367
+160,129,Dongli,Hualien,Taiwan Railway (TRA),121.304104,23.27249776
+161,130,Yuli,Hualien,Taiwan Railway (TRA),121.3115753,23.33162124
+162,131,Sanmin,Hualien,Taiwan Railway (TRA),121.3452645,23.42455559
+163,132,Ruisui,Hualien,Taiwan Railway (TRA),121.376649,23.49734475
+164,133,Fuyuan,Hualien,Taiwan Railway (TRA),121.380324,23.58024268
+165,134,Dafu,Hualien,Taiwan Railway (TRA),121.3894499,23.60570057
+166,135,Guangfu,Hualien,Taiwan Railway (TRA),121.4210154,23.66639833
+167,136,Wanrong,Hualien,Taiwan Railway (TRA),121.4188851,23.71211743
+168,137,Fenglin,Hualien,Taiwan Railway (TRA),121.4467073,23.74646606
+169,138,Nanping,Hualien,Taiwan Railway (TRA),121.4578854,23.78232587
+170,139,Linrong Shinkong,Hualien,Taiwan Railway (TRA),121.4618072,23.8019845
+171,140,Fengtian,Hualien,Taiwan Railway (TRA),121.4960539,23.84856401
+172,141,Shoufeng,Hualien,Taiwan Railway (TRA),121.5109248,23.86889419
+173,142,Pinghe,Hualien,Taiwan Railway (TRA),121.5206153,23.88263808
+174,143,Zhixue,Hualien,Taiwan Railway (TRA),121.5293234,23.90756952
+175,144,Ji'an,Hualien,Taiwan Railway (TRA),121.5828596,23.96793075
+176,145,Hualien,Hualien,Taiwan Railway (TRA),121.6009923,23.99255749
+177,146,Beipu,Hualien,Taiwan Railway (TRA),121.6013994,24.0324935
+178,147,Jingmei,Hualien,Taiwan Railway (TRA),121.6108894,24.09112778
+179,148,Xincheng,Hualien,Taiwan Railway (TRA),121.6405123,24.12775149
+180,149,Chongde,Hualien,Taiwan Railway (TRA),121.6557828,24.17204404
+181,150,Heren,Hualien,Taiwan Railway (TRA),121.7126963,24.2417752
+182,151,Heping,Hualien,Taiwan Railway (TRA),121.7547138,24.2978695
+183,152,Hanben,Yilan,Taiwan Railway (TRA),121.7687679,24.3353167
+184,153,Wuta,Yilan,Taiwan Railway (TRA),121.7758197,24.44916614
+185,154,Nan'ao,Yilan,Taiwan Railway (TRA),121.8011006,24.46309644
+186,155,Dongao,Yilan,Taiwan Railway (TRA),121.8304295,24.51819948
+187,156,Yongle,Yilan,Taiwan Railway (TRA),121.8444719,24.56844209
+188,157,Suaoxin,Yilan,Taiwan Railway (TRA),121.827757,24.60896637
+189,158,Xinma,Yilan,Taiwan Railway (TRA),121.8229666,24.615583
+190,159,Dongshan,Yilan,Taiwan Railway (TRA),121.7920052,24.63677963
+191,160,Luodong,Yilan,Taiwan Railway (TRA),121.7745856,24.67793739
+192,162,Erjie,Yilan,Taiwan Railway (TRA),121.7743609,24.70536216
+193,163,Yilan,Yilan,Taiwan Railway (TRA),121.7583062,24.75446698
+194,164,Sicheng,Yilan,Taiwan Railway (TRA),121.762987,24.78677746
+195,165,Jiaoxi,Yilan,Taiwan Railway (TRA),121.7755317,24.82687295
+196,166,Dingpu,Yilan,Taiwan Railway (TRA),121.8090701,24.84402947
+197,167,Toucheng,Yilan,Taiwan Railway (TRA),121.8224483,24.85903285
+198,168,Wai'ao,Yilan,Taiwan Railway (TRA),121.8456058,24.8838117
+199,169,Guishan,Yilan,Taiwan Railway (TRA),121.8687603,24.9050429
+200,170,Dasi,Yilan,Taiwan Railway (TRA),121.889711,24.93842588
+201,171,Dali,Yilan,Taiwan Railway (TRA),121.9226928,24.96666872
+202,172,Shicheng,Yilan,Taiwan Railway (TRA),121.9454859,24.9783567
+203,173,Fulong,New Taipei City,Taiwan Railway (TRA),121.9446229,25.01578323
+204,174,Gongliao,New Taipei City,Taiwan Railway (TRA),121.9086323,25.02194494
+205,175,Shuangxi,New Taipei City,Taiwan Railway (TRA),121.8669072,25.03851995
+206,176,Mudan,New Taipei City,Taiwan Railway (TRA),121.8519485,25.05857732
+207,177,Sandiaoling,New Taipei City,Taiwan Railway (TRA),121.8225083,25.0655754
+208,178,Huotong,New Taipei City,Taiwan Railway (TRA),121.8271465,25.08704761
+209,179,Ruifang,New Taipei City,Taiwan Railway (TRA),121.8064462,25.10899967
+210,180,Sijiaoting,New Taipei City,Taiwan Railway (TRA),121.7618468,25.10261859
+211,181,Nuannuan,Keelung,Taiwan Railway (TRA),121.7403019,25.10221812
+212,182,Badu,Keelung,Taiwan Railway (TRA),121.7288982,25.10853305
+213,183,Qidu,Keelung,Taiwan Railway (TRA),121.7139633,25.09309005
+214,184,Baifu,Keelung,Taiwan Railway (TRA),121.6937854,25.07793207
+215,185,Wudu,New Taipei City,Taiwan Railway (TRA),121.6675621,25.0778932
+216,186,Xizhi,New Taipei City,Taiwan Railway (TRA),121.6611999,25.06795427
+217,187,Xike,New Taipei City,Taiwan Railway (TRA),121.6466925,25.06256599
+218,188,Nangang,Taipei,Taiwan Railway (TRA),121.6070595,25.05329494
+219,189,Songshan,Taipei,Taiwan Railway (TRA),121.57826,25.04912494
+220,190,Zhuifen,Taichung,Taiwan Railway (TRA),120.5698506,24.12039876
+221,191,Dadu,Taichung,Taiwan Railway (TRA),120.542312,24.15413999
+222,192,Longjing,Taichung,Taiwan Railway (TRA),120.5431311,24.19750808
+223,193,Shalu,Taichung,Taiwan Railway (TRA),120.5572892,24.23697972
+224,194,Qingshui,Taichung,Taiwan Railway (TRA),120.5689454,24.2637225
+225,195,Taichung Port,Taichung,Taiwan Railway (TRA),120.6025618,24.30434084
+226,196,Dajia,Taichung,Taiwan Railway (TRA),120.6273039,24.34426256
+227,197,Rihnan,Taichung,Taiwan Railway (TRA),120.6544099,24.37795271
+228,198,Yuanli,Miaoli,Taiwan Railway (TRA),120.6511967,24.44351258
+229,199,Tongxiao,Miaoli,Taiwan Railway (TRA),120.6781991,24.49158614
+230,200,Xinpu,Miaoli,Taiwan Railway (TRA),120.6954528,24.54020679
+231,201,Baishatun,Miaoli,Taiwan Railway (TRA),120.7080162,24.56493849
+232,202,Longgang,Miaoli,Taiwan Railway (TRA),120.7581816,24.6119277
+233,203,Houlong,Miaoli,Taiwan Railway (TRA),120.7872245,24.6163063
+234,204,Dashan,Miaoli,Taiwan Railway (TRA),120.8035646,24.64582505
+235,205,Tanwen,Miaoli,Taiwan Railway (TRA),120.8581777,24.65651403
+236,206,Sankeng,Keelung,Taiwan Railway (TRA),121.7419994,25.12317119
+237,207,Keelung,Keelung,Taiwan Railway (TRA),121.738365,25.13164017
+238,208,Dahua,New Taipei City,Taiwan Railway (TRA),121.797503,25.04988551
+239,209,Shifen,New Taipei City,Taiwan Railway (TRA),121.7750791,25.0409206
+240,210,Wanggu,New Taipei City,Taiwan Railway (TRA),121.763789,25.03463408
+241,211,Lingjiao,New Taipei City,Taiwan Railway (TRA),121.7479204,25.03016239
+242,212,Jingtong,New Taipei City,Taiwan Railway (TRA),121.7239116,25.02389963
+243,213,Su'ao,Yilan,Taiwan Railway (TRA),121.8514419,24.59493518
+244,214,Qianjia,Hsinchu City,Taiwan Railway (TRA),121.0032034,24.80665001
+245,215,Xinzhuang,Hsinchu City,Taiwan Railway (TRA),121.0219111,24.78820991
+246,216,Zhuzhong,Hsinchu County,Taiwan Railway (TRA),121.0314216,24.78147459
+247,217,Shangyuan,Hsinchu County,Taiwan Railway (TRA),121.0558062,24.77780772
+248,218,Ronghua,Hsinchu County,Taiwan Railway (TRA),121.0830414,24.74852393
+249,219,Zhudong,Hsinchu County,Taiwan Railway (TRA),121.0948002,24.73837816
+250,220,Hengshan,Hsinchu County,Taiwan Railway (TRA),121.1176804,24.72044505
+251,221,Jiuzantou,Hsinchu County,Taiwan Railway (TRA),121.1360918,24.72056108
+252,222,Hexing,Hsinchu County,Taiwan Railway (TRA),121.154533,24.71660399
+253,223,Fugui,Hsinchu County,Taiwan Railway (TRA),121.1674806,24.71551732
+254,224,Neiwan,Hsinchu County,Taiwan Railway (TRA),121.1825845,24.70548704
+255,230,Liujia,Hsinchu County,Taiwan Railway (TRA),121.0393177,24.80747537
+256,237,Shalun,Tainan,Taiwan Railway (TRA),120.2862573,22.92405022
+257,238,Changjung Christian University,Tainan,Taiwan Railway (TRA),120.2726639,22.90733433
+258,421,Xinfu,Taoyuan,Taiwan Railway (TRA),121.0676455,24.93108339
+259,422,Tai'an,Taichung,Taiwan Railway (TRA),120.7418945,24.33125244
+260,423,Wuquan,Taichung,Taiwan Railway (TRA),120.6669898,24.12902683
+261,470,Yuanquan,Changhua,Taiwan Railway (TRA),120.6418183,23.79862544
+262,471,Zhuoshui,Nantou,Taiwan Railway (TRA),120.7047282,23.83461562
+263,472,Longquan,Nantou,Taiwan Railway (TRA),120.749974,23.83521273
+264,473,Jiji,Nantou,Taiwan Railway (TRA),120.7849024,23.82630089
+265,474,Shuili,Nantou,Taiwan Railway (TRA),120.8532612,23.81858066
+266,475,Checheng,Nantou,Taiwan Railway (TRA),120.86617,23.83263229
+267,HSR1,Nangang,Taipei,Taiwan High Speed Rail,121.6071054,25.05309144
+268,HSR2,Taipei,Taipei,Taiwan High Speed Rail,121.5170784,25.04769947
+269,HSR3,Banqiao,New Taipei City,Taiwan High Speed Rail,121.4643791,25.01364551
+270,HSR4,Taoyuan,Taoyuan,Taiwan High Speed Rail,121.2149286,25.01295915
+271,HSR5,Hsinchu,Hsinchu County,Taiwan High Speed Rail,121.0402715,24.80834395
+272,HSR6,Miaoli,Miaoli,Taiwan High Speed Rail,120.8254494,24.60549286
+273,HSR7,Taichung,Taichung,Taiwan High Speed Rail,120.6158515,24.11162077
+274,HSR8,Changhua,Changhua,Taiwan High Speed Rail,120.5749062,23.8740318
+275,HSR9,Yunlin,Yunlin,Taiwan High Speed Rail,120.4161436,23.73640857
+276,HSR10,Chiayi,Chiayi County,Taiwan High Speed Rail,120.3237757,23.45942369
+277,HSR11,Tainan,Tainan,Taiwan High Speed Rail,120.2864099,22.92465577
+278,HSR12,Xinzuoying,Kaohsuing,Taiwan High Speed Rail,120.3076312,22.68726457
+279,Y07,New Taipei Industrial Park,New Taipei City,Taipei MRT Yellow,121.4598461,25.06111638
+280,Y08,Touqianzhuang,New Taipei City,Taipei MRT Yellow,121.4601992,25.03951812
+281,Y09,Xinpu Minsheng,New Taipei City,Taipei MRT Yellow,121.466611,25.02578776
+282,Y10,Banqiao,New Taipei City,Taipei MRT Yellow,121.4650684,25.01547029
+283,Y11,Jingan,New Taipei City,Taipei MRT Yellow,121.5058668,24.99338873
+284,Y12,Dapinglin,New Taipei City,Taipei MRT Yellow,121.5422034,24.98292966
+285,Y13,Xingfu,New Taipei City,Taipei MRT Yellow,121.4599055,25.04982172
+286,Y14,Banxin,New Taipei City,Taipei MRT Yellow,121.4723878,25.01452296
+287,Y15,Zhongyuan,New Taipei City,Taipei MRT Yellow,121.484445,25.0080853
+288,Y16,Qiaohe,New Taipei City,Taipei MRT Yellow,121.4904136,25.00424101
+289,Y17,Zhonge,New Taipei City,Taipei MRT Yellow,121.4957089,25.00228358
+290,Y18,Jingping,New Taipei City,Taipei MRT Yellow,121.5166965,24.99210149
+291,Y19,Xiulang Bridge,New Taipei City,Taipei MRT Yellow,121.5249296,24.99033349
+292,Y20,Shisizhang,New Taipei City,Taipei MRT Yellow,121.5277198,24.98425316
+293,R11,Shuanglian,Taipei,Taipei MRT Red,121.5206994,25.05777216
+294,R12,Minquan West Road,Taipei,Taipei MRT Red,121.5193268,25.06287638
+295,R13,Yuanshan,Taipei,Taipei MRT Red,121.5201442,25.07137352
+296,R14,Jiantan,Taipei,Taipei MRT Red,121.5250483,25.08445595
+297,R15,Shilin,Taipei,Taipei MRT Red,121.5262482,25.0934623
+298,R16,Zhishan,Taipei,Taipei MRT Red,121.5225069,25.10306671
+299,R17,Mingde,Taipei,Taipei MRT Red,121.5187622,25.10984154
+300,R18,Shipai,Taipei,Taipei MRT Red,121.5156361,25.11441323
+301,R19,Qilian,Taipei,Taipei MRT Red,121.5061414,25.12085138
+302,R20,Qiyan,Taipei,Taipei MRT Red,121.5011226,25.12553589
+303,R21,Beitou,Taipei,Taipei MRT Red,121.498656,25.13178071
+304,R22,Fuxinggang,Taipei,Taipei MRT Red,121.48543,25.13748585
+305,R23,Zhongyi,Taipei,Taipei MRT Red,121.4733611,25.13093202
+306,R24,Guandu,Taipei,Taipei MRT Red,121.4670039,25.12551768
+307,R25,Zhuwei,New Taipei City,Taipei MRT Red,121.4595048,25.13691371
+308,R26,Hongshulin,New Taipei City,Taipei MRT Red,121.4588346,25.15468162
+309,R27,Tamsui,New Taipei City,Taipei MRT Red,121.4456596,25.1677354
+310,R10,Zhongshan,Taipei,Taipei MRT Red,121.5203896,25.05266895
+311,R09,Taipei Main,Taipei,Taipei MRT Red,121.5175948,25.04634233
+312,R08,NTU Hospital,Taipei,Taipei MRT Red,121.5162852,25.04207519
+313,R07,Chiang Kai Sek Memorial Hall,Taipei,Taipei MRT Red,121.5183927,25.03269293
+314,R06,Dongmen,Taipei,Taipei MRT Red,121.5284979,25.03392324
+315,R05,Daan Park,Taipei,Taipei MRT Red,121.5357158,25.03347456
+316,R04,Daan,Taipei,Taipei MRT Red,121.5436045,25.03332844
+317,R03,Xinyi Anhe,Taipei,Taipei MRT Red,121.553012,25.03312217
+318,R02,Taipei 101/World Trade Center,Taipei,Taipei MRT Red,121.5627521,25.03293352
+319,R01,Xiangshan,Taipei,Taipei MRT Red,121.5700749,25.03276857
+320,R21a,Xinbeitou,Taipei,Taipei MRT Red,121.5024979,25.13692767
+321,O07,Zhongxiao Xinsheng,Taipei,Taipei MRT Orange,121.5328592,25.04179239
+322,O06,Dongmen,Taipei,Taipei MRT Orange,121.5284862,25.03384973
+323,O05,Guting,Taipei,Taipei MRT Orange,121.5228197,25.02656153
+324,O04,Dingxi,New Taipei City,Taipei MRT Orange,121.5154212,25.01346989
+325,O03,Yongan Market,New Taipei City,Taipei MRT Orange,121.5108634,25.00240026
+326,O02,Jingan,New Taipei City,Taipei MRT Orange,121.5050688,24.99382844
+327,O01,Nanshijiao,New Taipei City,Taipei MRT Orange,121.5090935,24.99005999
+328,O08,Songjiang Nanjing,Taipei,Taipei MRT Orange,121.5330061,25.05203961
+329,O09,Xingtian Temple,Taipei,Taipei MRT Orange,121.5331737,25.05972294
+330,O10,Zhongshan Elementary School,Taipei,Taipei MRT Orange,121.5264564,25.06267016
+331,O11,Minquan West Road,Taipei,Taipei MRT Orange,121.5196926,25.06287243
+332,O12,Daqiaotou,New Taipei City,Taipei MRT Orange,121.5135895,25.0631731
+333,O13,Taipei Bridge,New Taipei City,Taipei MRT Orange,121.5001346,25.06305253
+334,O14,Cailiao,New Taipei City,Taipei MRT Orange,121.4920387,25.06019401
+335,O15,Sanchong,New Taipei City,Taipei MRT Orange,121.4843598,25.05577184
+336,O16,Xianse Temple,New Taipei City,Taipei MRT Orange,121.4713877,25.0463074
+337,O17,Touqianzhuang,New Taipei City,Taipei MRT Orange,121.4615963,25.0396132
+338,O18,Xinzhuang,New Taipei City,Taipei MRT Orange,121.452464,25.03613625
+339,O19,Fu Jen Catholic University,New Taipei City,Taipei MRT Orange,121.4356114,25.03276189
+340,O20,Danfeng,New Taipei City,Taipei MRT Orange,121.4224477,25.02883301
+341,O21,Huilong,New Taipei City,Taipei MRT Orange,121.4115449,25.02205674
+342,O22,Sanchong Elementary School,New Taipei City,Taipei MRT Orange,121.4966065,25.07052866
+343,O23,Sanhe Junior High School,New Taipei City,Taipei MRT Orange,121.4864412,25.07679573
+344,O24,St Ignatius High School,New Taipei City,Taipei MRT Orange,121.4797374,25.08068876
+345,O25,Sanmin Senior High School,New Taipei City,Taipei MRT Orange,121.4731036,25.08568149
+346,O26,Luzhou,New Taipei City,Taipei MRT Orange,121.464312,25.09163989
+347,LG01,Xiaobitan,New Taipei City,Taipei MRT Light Green,121.5307114,24.97172871
+348,G01,Songshan,Taipei,Taipei MRT Green,121.5776786,25.05001642
+349,G02,Nanjing Sanmin,Taipei,Taipei MRT Green,121.5638548,25.05142394
+350,G03,Taipei Arena,Taipei,Taipei MRT Green,121.5518781,25.05166693
+351,G04,Nanjing Fuxing,Taipei,Taipei MRT Green,121.5440366,25.05182578
+352,G05,Songjiang Nanjing,Taipei,Taipei MRT Green,121.5330067,25.05201987
+353,G06,Zhongshan,Taipei,Taipei MRT Green,121.5203886,25.05266014
+354,G07,Beimen,Taipei,Taipei MRT Green,121.5102639,25.04926436
+355,G08,Ximen,Taipei,Taipei MRT Green,121.5082721,25.04218819
+356,G09,Xiaonanmen,Taipei,Taipei MRT Green,121.5111809,25.03548192
+357,G10,Chiang Kai Sek Memorial Hall,Taipei,Taipei MRT Green,121.518327,25.03265435
+358,G11,Guting,Taipei,Taipei MRT Green,121.5227573,25.02651475
+359,G12,Taipower Building,Taipei,Taipei MRT Green,121.5283316,25.02057688
+360,G13,Gongguan,Taipei,Taipei MRT Green,121.5342613,25.01486234
+361,G14,Wanlong,Taipei,Taipei MRT Green,121.5390752,25.0016792
+362,G15,Jingmei,Taipei,Taipei MRT Green,121.5407751,24.99283901
+363,G16,Dapinglin,New Taipei City,Taipei MRT Green,121.5413497,24.98288741
+364,G17,Qizhang,New Taipei City,Taipei MRT Green,121.5429178,24.9757825
+365,G18,Xindian District Office,New Taipei City,Taipei MRT Green,121.5415214,24.96780943
+366,G19,Xindian,New Taipei City,Taipei MRT Green,121.537713,24.95818774
+367,BR01,Taipei Nangang Exhibition Center,Taipei,Taipei MRT Brown,121.6178604,25.05538065
+368,BR02,Nangang Software Park,Taipei,Taipei MRT Brown,121.6158588,25.05999234
+369,BR03,Donghu,Taipei,Taipei MRT Brown,121.611626,25.06752758
+370,BR04,Huzhou,Taipei,Taipei MRT Brown,121.6070558,25.07276106
+371,BR05,Dahu Park,Taipei,Taipei MRT Brown,121.6021524,25.08383649
+372,BR06,Neihu,Taipei,Taipei MRT Brown,121.5942151,25.08352312
+373,BR07,Wende,Taipei,Taipei MRT Brown,121.5849796,25.07853667
+374,BR08,Gangqian,Taipei,Taipei MRT Brown,121.5751415,25.08008902
+375,BR09,Xihu,Taipei,Taipei MRT Brown,121.5672431,25.0821105
+376,BR10,Jiannan Rd,Taipei,Taipei MRT Brown,121.5557331,25.08484675
+377,BR11,Dazhi,Taipei,Taipei MRT Brown,121.547212,25.07954424
+378,BR12,Songshan Airport,Taipei,Taipei MRT Brown,121.5517668,25.06287274
+379,BR13,Zhongshan Junior High School,Taipei,Taipei MRT Brown,121.544222,25.06069696
+380,BR14,Nanjing Fuxing,Taipei,Taipei MRT Brown,121.5440437,25.05192693
+381,BR15,Zhongxiao Fuxing,Taipei,Taipei MRT Brown,121.5437862,25.04161682
+382,BR16,Daan,Taipei,Taipei MRT Brown,121.5435954,25.03298851
+383,BR17,Technology Building,Taipei,Taipei MRT Brown,121.5434556,25.02607941
+384,BR18,Liuzhangli,Taipei,Taipei MRT Brown,121.5531448,25.02381122
+385,BR19,Linguang,Taipei,Taipei MRT Brown,121.5588354,25.01850395
+386,BR20,Xinhai,Taipei,Taipei MRT Brown,121.5570262,25.00535068
+387,BR21,Wanfang Hospital,Taipei,Taipei MRT Brown,121.5581347,24.99944855
+388,BR22,Wanfang Community,Taipei,Taipei MRT Brown,121.5680937,24.99861565
+389,BR23,Muzha,Taipei,Taipei MRT Brown,121.5731661,24.99828231
+390,BR24,Taipei Zoo,Taipei,Taipei MRT Brown,121.5794056,24.99831057
+391,BL01,Taipei Nangang Exhibition Center,Taipei,Taipei MRT Blue,121.6178111,25.05528892
+392,BL02,Nangang,Taipei,Taipei MRT Blue,121.6070401,25.05215594
+393,BL03,Kunyang,Taipei,Taipei MRT Blue,121.5932354,25.05048418
+394,BL04,Houshanpi,Taipei,Taipei MRT Blue,121.5824817,25.04501433
+395,BL05,Yongchun,Taipei,Taipei MRT Blue,121.5760294,25.04087959
+396,BL06,Taipei City Hall,Taipei,Taipei MRT Blue,121.5663134,25.04112777
+397,BL07,San Yat Sen Memorial Hall,Taipei,Taipei MRT Blue,121.5575037,25.04135255
+398,BL08,Zhongxiao Dunhua,Taipei,Taipei MRT Blue,121.5508444,25.04149592
+399,BL09,Zhongxiao Fuxing,Taipei,Taipei MRT Blue,121.5437902,25.04162928
+400,BL10,Zhongxiao Xinsheng,Taipei,Taipei MRT Blue,121.532874,25.04236164
+401,BL11,Shandao Temple,Taipei,Taipei MRT Blue,121.5233387,25.04479594
+402,BL12,Taipei Main,Taipei,Taipei MRT Blue,121.5175562,25.04626882
+403,BL13,Ximen,Taipei,Taipei MRT Blue,121.5085262,25.04213169
+404,BL14,Longshan Temple,Taipei,Taipei MRT Blue,121.500438,25.03526746
+405,BL15,Jiangzicui,New Taipei City,Taipei MRT Blue,121.4723714,25.02998832
+406,BL16,Xinpu,New Taipei City,Taipei MRT Blue,121.4680446,25.0230985
+407,BL17,Banqiao,New Taipei City,Taipei MRT Blue,121.462476,25.01380198
+408,BL18,Fuzhong,New Taipei City,Taipei MRT Blue,121.4593747,25.00857661
+409,BL19,Far Eastern Hospital,New Taipei City,Taipei MRT Blue,121.4525529,24.99818355
+410,BL20,Haishan,New Taipei City,Taipei MRT Blue,121.4488001,24.98533687
+411,BL21,Tucheng,New Taipei City,Taipei MRT Blue,121.4442937,24.97301859
+412,BL22,Yongning,New Taipei City,Taipei MRT Blue,121.4362759,24.966883
+413,BL23,Dingpu,New Taipei City,Taipei MRT Blue,121.4194661,24.95977595
+414,M01,Taipei Zoo,Taipei,Maokong Gondola,121.5762741,24.99602881
+415,M02,Zhinan Temple,Taipei,Maokong Gondola,121.589716,24.97898733
+416,M03,Maokong,Taipei,Maokong Gondola,121.5883461,24.96891061
+417,M04,Taipei Zoo South,Taipei,Maokong Gondola,121.5873738,24.99022591
+418,KR01,Ciaotou,Kaohsuing,Kaohsuing MRT Red,120.3108243,22.76017862
+419,KR02,Ciaotou Sugar Refinery,Kaohsuing,Kaohsuing MRT Red,120.3144513,22.75348062
+420,KR03,Cingpu,Kaohsuing,Kaohsuing MRT Red,120.3176663,22.74437887
+421,KR04,Metropolitan Park,Kaohsuing,Kaohsuing MRT Red,120.3209379,22.72931389
+422,KR05,Houjing,Kaohsuing,Kaohsuing MRT Red,120.3162816,22.72234471
+423,KR06,Nanzih Export Processing Zone,Kaohsuing,Kaohsuing MRT Red,120.3071065,22.71866639
+424,KR07,Oil Refinery Elementary School,Kaohsuing,Kaohsuing MRT Red,120.3023147,22.70869168
+425,KR08,World Games,Kaohsuing,Kaohsuing MRT Red,120.3025085,22.70186651
+426,KR09,Zuoying THSR,Kaohsuing,Kaohsuing MRT Red,120.309274,22.68794789
+427,KR10,Ecological District,Kaohsuing,Kaohsuing MRT Red,120.3065392,22.67671557
+428,KR11,Kaohsuing Arena,Kaohsuing,Kaohsuing MRT Red,120.3032659,22.66635975
+429,KR12,Aozhidi,Kaohsuing,Kaohsuing MRT Red,120.303053,22.65705851
+430,KR13,Houyi,Kaohsuing,Kaohsuing MRT Red,120.30335,22.6484906
+431,KR14,Kaohsuing,Kaohsuing,Kaohsuing MRT Red,120.3026345,22.63939579
+432,KR15,Formosa Boulevard,Kaohsuing,Kaohsuing MRT Red,120.3019697,22.63136059
+433,KR16,Sanduo Shopping District,Kaohsuing,Kaohsuing MRT Red,120.3046133,22.61395888
+434,KR17,Shihjia,Kaohsuing,Kaohsuing MRT Red,120.3081002,22.60604817
+435,KR18,Kaisyuan,Kaohsuing,Kaohsuing MRT Red,120.3154146,22.59676761
+436,KR19,Cianjhen Senior High School,Kaohsuing,Kaohsuing MRT Red,120.3218754,22.58843399
+437,KR20,Caoya,Kaohsuing,Kaohsuing MRT Red,120.3287388,22.58035278
+438,KR21,Kaohsuing International Airport,Kaohsuing,Kaohsuing MRT Red,120.3417247,22.57011725
+439,KR22,Siaogang,Kaohsuing,Kaohsuing MRT Red,120.3537994,22.56478929
+440,KR23,South Gangshan,Kaohsuing,Kaohsuing MRT Red,120.3024159,22.78084253
+441,KR24,Central Park,Kaohsuing,Kaohsuing MRT Red,120.3013444,22.62479184
+442,KO01,Sizihwan,Kaohsuing,Kaohsuing MRT Orange,120.2745347,22.62155192
+443,KO02,Yanchengpu,Kaohsuing,Kaohsuing MRT Orange,120.2837699,22.62349328
+444,KO03,City Council,Kaohsuing,Kaohsuing MRT Orange,120.2945658,22.62897526
+445,KO04,Formosa Boulevard,Kaohsuing,Kaohsuing MRT Orange,120.3019714,22.63137483
+446,KO05,Sinyi Elementary School,Kaohsuing,Kaohsuing MRT Orange,120.3114503,22.6307525
+447,KO06,Cultural Center,Kaohsuing,Kaohsuing MRT Orange,120.3177686,22.63029976
+448,KO07,Wukuaicuo,Kaohsuing,Kaohsuing MRT Orange,120.327682,22.62951991
+449,KO08,Martial Arts,Kaohsuing,Kaohsuing MRT Orange,120.3345662,22.6272964
+450,KO09,Weiwuying,Kaohsuing,Kaohsuing MRT Orange,120.34086,22.62515764
+451,KO10,Fongshan West,Kaohsuing,Kaohsuing MRT Orange,120.3482616,22.62531826
+452,KO11,Fongshan,Kaohsuing,Kaohsuing MRT Orange,120.3558563,22.62598362
+453,KO12,Dadong,Kaohsuing,Kaohsuing MRT Orange,120.363168,22.62529721
+454,KO13,Fongshan Junior High School,Kaohsuing,Kaohsuing MRT Orange,120.372485,22.62489676
+455,KO14,Daliao,Kaohsuing,Kaohsuing MRT Orange,120.3902928,22.62212322
+456,KV01,Dayi Pier 2,Kaohsuing,Kaohsuing Light Rail,120.2842041,22.6185561
+457,KV02,Love Pier,Kaohsuing,Kaohsuing Light Rail,120.2893697,22.61918126
+458,KV03,Glory Pier,Kaohsuing,Kaohsuing Light Rail,120.2931492,22.61684369
+459,KV04,Cruise Terminal,Kaohsuing,Kaohsuing Light Rail,120.2933957,22.6115946
+460,KV05,Kaohsuing Exhibition Center,Kaohsuing,Kaohsuing Light Rail,120.2980064,22.61012351
+461,KV06,Software Technology Park,Kaohsuing,Kaohsuing Light Rail,120.3008308,22.60566034
+462,KV07,Commerce and Trade Park,Kaohsuing,Kaohsuing Light Rail,120.3026171,22.60095683
+463,KV08,Dream Mall,Kaohsuing,Kaohsuing Light Rail,120.3050304,22.59482835
+464,KV09,Kaishuan Jhonghua,Kaohsuing,Kaohsuing Light Rail,120.3104984,22.59361463
+465,KV10,Cianjhen Star,Kaohsuing,Kaohsuing Light Rail,120.3153204,22.5954756
+466,KV11,Kaisyuan Rueitian,Kaohsuing,Kaohsuing Light Rail,120.3197303,22.59950142
+467,KV12,Lizihnei,Kaohsuing,Kaohsuing Light Rail,120.3245881,22.60462036
+468,KV13,Penglai Pier 2,Kaohsuing,Kaohsuing Light Rail,120.2798696,22.6204548
+469,KV14,Hamasen,Kaohsuing,Kaohsuing Light Rail,120.2758124,22.62160886
+470,103a,Beitun,Taichung,Taichung MRT,120.708778,24.18891583
+471,103,Jiushe,Taichung,Taichung MRT,120.7072967,24.18229181
+472,104,Songzhu,Taichung,Taichung MRT,120.7014988,24.1808656
+473,105,Sihwei Elementary School,Taichung,Taichung MRT,120.6931793,24.1712408
+474,106,Wenxin Chongde,Taichung,Taichung MRT,120.6848658,24.17219148
+475,107,Wenxin Zhongqing,Taichung,Taichung MRT,120.670577,24.17367437
+476,108,Wenhua Senior High School,Taichung,Taichung MRT,120.6602206,24.17133654
+477,109,Wenxin Yinghua,Taichung,Taichung MRT,120.6535228,24.16742702
+478,110,Taichung City Hall,Taichung,Taichung MRT,120.6489527,24.16163608
+479,111,Shui-an,Taichung,Taichung MRT,120.6467844,24.15335621
+480,112,Wenxin Forest Park,Taichung,Taichung MRT,120.64672,24.1453328
+481,113,Nantun,Taichung,Taichung MRT,120.6467097,24.14054409
+482,114,Feng-le Park,Taichung,Taichung MRT,120.6464599,24.1321934
+483,115,Daqing,Taichung,Taichung MRT,120.6475193,24.1190043
+484,116,Juizhangli,Taichung,Taichung MRT,120.6400139,24.11438903
+485,117,Juide,Taichung,Taichung MRT,120.634401,24.11094354
+486,118,Wuri,Taichung,Taichung MRT,120.624743,24.10888489
+487,119,Taichung,Taichung,Taichung MRT,120.6141946,24.11008391
+488,KV15,Depot,Kaohsiung,Kaohsuing Light Rail,120.3260851,22.60847878
+489,KV16,Kaisyuan Ersheng,Kaohsiung,Kaohsuing Light Rail,120.3271865,22.61254787
+490,KV17,Kaisyuan Wuchang,Kaohsiung,Kaohsuing Light Rail,120.3268633,22.61692601
+491,KV18,Wucyuan Elementary School,Kaohsiung,Kaohsuing Light Rail,120.3251651,22.62119632
+492,KV19,Department of Health,Kaohsiung,Kaohsuing Light Rail,120.3236741,22.62520437
+493,KV20,Kaisyuan Park,Kaohsuing,Kaohsuing Light Rail,120.3228051,22.62941779
+494,KV21,Shoushan Park,Kaohsiung,Kaohsuing Light Rail,120.2786539,22.626558
+495,KV22,,Kaohsiung,Kaohsuing Light Rail,120.2806874,22.62958459
+496,KV23,Gushan District Office,Kaohsiung,Kaohsuing Light Rail,120.2826125,22.63598261
+497,KV24,Gushan,Kaohsiung,Kaohsuing Light Rail,120.2808627,22.64184562
+498,KV25,Makadao,Kaohsiung,Kaohsuing Light Rail,120.2810813,22.6470196
+499,KV26,Museum of Fine Arts,Kaohsiung,Kaohsuing Light Rail,120.2815212,22.65197185
+500,V11,Taipei University of Marine Technology,New Taipei,Tamsui Light Rail,121.4263872,25.19117081
+501,V12,Shalun,New Taipei,Tamsui Light Rail,121.4173298,25.18750672
+502,V13,Tamsui Fishermans Wharf,New Taipei,Tamsui Light Rail,121.4186347,25.18200417
+503,476,Beimen,Chiayi City,Alishan Forest Railway,120.4541,23.48856
+504,477,Chiayi,Chiayi City,Alishan Forest Railway,120.4411,23.4791
+505,478,Lumachan,Chiayi County,Alishan Forest Railway,120.5314,23.50389
+506,479,Zhuqi,Chiayi County,Alishan Forest Railway,120.5538,23.5259
+507,480,Mululiao,Chiayi County,Alishan Forest Railway,120.6595,23.5044
+508,481,Zhangnaoliao,Chiayi County,Alishan Forest Railway,120.6026,23.5329
+509,482,Dulishan,Chiayi County,Alishan Forest Railway,120.6075,23.5386
+510,483,Liyuanliao,Chiayi County,Alishan Forest Railway,120.6202,23.5422
+511,484,Jiaoliping,Chiayi County,Alishan Forest Railway,120.6438,23.5316
+512,485,Shuisheliao,Chiayi County,Alishan Forest Railway,120.6595,23.5044
+513,486,Fenqihu,Chiayi County,Alishan Forest Railway,120.6951,23.5053
+514,487,Duolin,Chiayi County,Alishan Forest Railway,120.7306,23.4985
+515,488,Shizilu,Chiayi County,Alishan Forest Railway,120.75475,23.49275
+516,489,Pingzhena,Chiayi County,Alishan Forest Railway,120.7802,23.51114
+517,490,Erwanping,Chiayi County,Alishan Forest Railway,120.7907,23.50856
+518,491,Shenmu,Chiayi County,Alishan Forest Railway,120.8067,23.5192
+519,492,Alishan,Chiayi County,Alishan Forest Railway,120.80453,23.5102
